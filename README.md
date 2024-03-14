@@ -1,8 +1,11 @@
+[![MasterHead](https://github.com/sqnzhh/sqnzhh/blob/main/coding.gif)](https://github.com/sqnzhh/sqnzhh/blob/main/coding.gif)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kussaiynov Sanzhar
 ==========================================================================================================================================
 
 Java Backend
 ------------
+![a](https://github.com/sqnzhh/sqnzhh/blob/main/code-coding.gif)
 
 Now I am a student and doing my own way to become a good programmer
 
