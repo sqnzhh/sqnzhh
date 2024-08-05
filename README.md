@@ -11,7 +11,7 @@ Now I am a student and doing my own way to become a good programmer
 
 * 🌍  I'm based in Almaty
 * ✉️  You can contact me at [sanzharkusaiynov@gmail.com](mailto:sanzharkusaiynov@gmail.com)
-* 🧠  I'm learning JAVA, KOTLIN
+* 🧠  I'm learning JAVA, PYTHON
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  If I give myself for work 100%, I can do anything.
 
