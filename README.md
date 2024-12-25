@@ -3,25 +3,28 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kussaiynov Sanzhar
 ==========================================================================================================================================
 
-Java Backend
-------------
+Data Science | Machine Learning | Python
+--------------------------------------
 ![a](https://github.com/sqnzhh/sqnzhh/blob/main/code-coding.gif)
 
-Now I am a student and doing my own way to become a good programmer
+Currently, I am a student working on expanding my knowledge in data science, machine learning, and Python. My goal is to become a sought-after data scientist and explore real-life applications for data analysis and prediction.
 
-* 🌍  I'm based in Almaty
-* ✉️  You can contact me at [sanzharkusaiynov@gmail.com](mailto:sanzharkusaiynov@gmail.com)
-* 🧠  I'm learning JAVA, PYTHON
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  If I give myself for work 100%, I can do anything.
+* 🌍 I'm based in Almaty
+* ✉️ You can contact me at [sanzharkusaiynov@gmail.com](mailto:sanzharkusaiyn@gmail.com)
+* 🧠 I'm learning **Python**, **Machine Learning**, **SQL**, and **Data Analysis**
+* 🤝 I'm open to collaborating on interesting data-related projects
+* ⚡ If I dedicate myself fully to work, I can achieve anything.
 
 ### Skills
 
-
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg" width="36" height="36" alt="Scikit-Learn" /></a>
 </p>
-
 
 ### Socials
 
